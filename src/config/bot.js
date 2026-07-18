@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "/help | Axter Development", // required by Discord API, not shown in the client
-        state: "",     // this is what people actually see
+        name: "/help", // required by Discord API, not shown in the client
+        state: "Axter Development",     // this is what people actually see
         type: 0,               // Custom
       },
     ],
