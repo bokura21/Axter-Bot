@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "/help | Axter Development", // required by Discord API, not shown in the client
-        state: "With you",     // this is what people actually see
+        state: "",     // this is what people actually see
         type: 0,               // Custom
       },
     ],
@@ -52,7 +52,7 @@ export const botConfig = {
 
     // Command prefix for text-based commands (e.g., "!" for "!ping").
     // Supports both slash commands and prefix commands.
-    prefix: process.env.PREFIX || ".",
+    prefix: process.env.PREFIX || "&",
   },
 
   // =========================
