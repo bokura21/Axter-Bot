@@ -101,7 +101,7 @@ export async function createInitialHelpMenu(client) {
             },
             {
                 name: '\u200B',
-                value: `-# Created by Axter Development™`,
+                value: `-# Created by [Eternal](https://discord.com/users/1415019774605398088)`,
                 inline: false,
             },
         ],
