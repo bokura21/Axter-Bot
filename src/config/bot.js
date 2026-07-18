@@ -112,7 +112,7 @@ export const botConfig = {
       green: "#57F287",
       yellow: "#FEE75C",
       fuchsia: "#EB459E",
-      red: "#ED4245",
+      red: "#F00000",
       black: "#000000",
 
       // Feature-specific colors.
